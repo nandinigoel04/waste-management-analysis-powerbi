@@ -77,4 +77,3 @@ This project was presented at **Project Ace (College Event)**.
 
 ---
 
-## ⭐ Feel free to fork, star ⭐, or connect with me!
